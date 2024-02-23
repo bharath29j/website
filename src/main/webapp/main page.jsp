@@ -31,8 +31,8 @@
 <center>
 <h1>Contact</h1>
 <p> +91 7358401794 |bj29112002@gmail.com </p>
-<p> No30 kumaran Stret Chennai</p>
-<a href="indexfile.jsp">Click to Logout</a>
+<p> No22 vanigar Street Thiruporur</p>
+<a href="lastpage.jsp">Click to Logout</a>
 
 </center>
 </body>

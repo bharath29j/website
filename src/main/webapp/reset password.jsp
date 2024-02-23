@@ -6,12 +6,8 @@
 <meta charset="ISO-8859-1">
 <title>Reset Page</title>
 </head>
-<style>
-.sub{
+<form action="Resetpage" method="post"><style>
 
-background-color: red;
-color: white;
-}
 .div1{
 
 width:80px;
@@ -25,23 +21,21 @@ margin-top: 30px;
 
 </style>
 <body >
+
 <center><h1>Incorrect Password</h1></center>
 <center>
 <div class="div1">
 
 <center><b>RESET PASSWORD</b><br></center><br>
-<input type="text" placeholder="Enter Mobile Number">
+<input type="text" name="mobileno" placeholder="Enter Mobile Number">
 <br>
 <br>
+<input type="submit"  value="click" style="color: white;background-color: red;">
 
-<a href="indexfile.jsp" type="submit" class="sub">click</a>
 </div>
 
-
-
-
-
-
 </center>
+</form>
+
 </body>
 </html>
